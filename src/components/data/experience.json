@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "role": "Teaching Assistant ,Web Development",
+    "organisation": "TutorBin",
+    "startDate": "Sept, 2023",
+    "endDate": "April,2024",
+    "location": "Remote",
+    "experiences": [
+       "Mentored 200+ Students",
+      "Workshop Conducted Website Designs"
+     
+    ],
+    "imageSrc": "company/tutorbin.png"
+  }
+  
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "key": 1,
+    "title": "Virtual-Trading-Platform",
+    "imageSrc": "/assets/hero/VTP.jpg",
+    "description": "Innovated and deployed comprehensive trading features, developed real-time stock data retrieval via APIs, and enhanced user experience with Chart.js graphical representations, boosting daily active users.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/govindakukna/Virtual-Trading-platform"
+  },
+  {
+    "key": 2,
+    "title": "Talk_A_Tive Application",
+    "imageSrc": "/assets/hero/TAT.png",
+    "description": "Enabled secure real-time communication with WebSocket, enhanced admin interface for permissions, accelerated messaging with Socket.io, and secured login/signup with JWT, boosting user satisfaction.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/govindakukna/Talk-A-Tive"
+  },
+  {
+    "key": 3,
+    "title": "Complaint Management System",
+    "imageSrc": "/assets/hero/complaint-mgmt.png",
+    "description": "The Complaint Management System is a web application designed to allow users to register and track complaints while enabling admins to manage and update complaint statuses.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/govindakukna/complaint_management_system"
+  },
+  {
+    "key": 4,
+    "title": "My Portfolio",
+    "imageSrc": "/assets/hero/hero.avif",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
